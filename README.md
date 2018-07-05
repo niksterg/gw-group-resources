@@ -1,0 +1,1 @@
+gw-group-resources
