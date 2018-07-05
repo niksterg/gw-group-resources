@@ -10,11 +10,17 @@
 
 [LIGO Data Science Center](https://losc.ligo.org/about/)
 
+[Alicia Sintes' talk](https://www.ru.ac.za/media/rhodesuniversity/content/mathematics/documents/chrisengelbrecht/sintes-olives/SintesRhodes3_v1.pdf)
+
 ## Numerical Relativity
+
+[RNS Rotating Neutron Stars](http://www.gravity.phys.uwm.edu/rns/)
 
 [CORE Computational Relativity waveforms database](http://www.computational-relativity.org/index.html)
 
 [Einstein Toolkit](https://einsteintoolkit.org/)
+
+[GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
 ## Equation of State
 
