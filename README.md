@@ -88,7 +88,7 @@
 
 [3G Science Case Consortium Meeting](https://workshops.aei.mpg.de/3Gsubcomm/)
 
-[3rd HEL.A.S. SUMMER SCHOOL AND DAAD SCHOOL: NEUTRON STARS AND GRAVITATIONAL WAVES(http://www.astro.auth.gr/summer2018/)
+[3rd HEL.A.S. SUMMER SCHOOL AND DAAD SCHOOL: NEUTRON STARS AND GRAVITATIONAL WAVES](http://www.astro.auth.gr/summer2018/)
 
 [Fundamental Physics with LISA](http://www.ggi.infn.it/showevent.pl?id=305)
 
