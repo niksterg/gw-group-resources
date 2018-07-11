@@ -3,7 +3,6 @@
 ## Gravitational Wave Detectors
 
 [LISA mission](https://lisamission.org/)
-<a href="https://lisamission.org/" target="new">LISA mission</a>
 
 [GWIC-3G third-generation GW detectors](https://gwic.ligo.org/3Gsubcomm/)
 
@@ -11,7 +10,15 @@
 
 [LIGO Data Science Center](https://losc.ligo.org/about/)
 
+[LSC Open Data Workshop #1](https://losc.ligo.org/s/workshop1/course.html)  [Exercises](https://github.com/gw-odw/odw-2018)
+
 [Alicia Sintes' talk](https://www.ru.ac.za/media/rhodesuniversity/content/mathematics/documents/chrisengelbrecht/sintes-olives/SintesRhodes3_v1.pdf)
+
+[Elena Cuoco's page](https://www.elenacuoco.com/2016/08/23/sampling-theorem/)
+
+[Orphanidis' free Signal Processing book](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
+
+
 
 ## Numerical Relativity
 
