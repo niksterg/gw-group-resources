@@ -6,6 +6,12 @@
 
 [GWIC-3G third-generation GW detectors](https://gwic.ligo.org/3Gsubcomm/)
 
+## Gravitational Wave Theory
+
+[Caltech's GW course](http://astro-gr.org/online-course-gravitational-waves/)
+
+[Amaro-Seoane and Schutz's GW Notes](http://astro-gr.org/gw-notes/)
+
 ## Gravitational Wave Data Analysis
 
 [LIGO Data Science Center](https://losc.ligo.org/about/)
@@ -22,9 +28,9 @@
 
 [Orphanidis' free Signal Processing book](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 
-
-
 ## Numerical Relativity
+
+## Codes
 
 [RNS Rotating Neutron Stars](http://www.gravity.phys.uwm.edu/rns/)
 
@@ -35,6 +41,8 @@
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
+
+[Gravidy](https://gravidy.xyz/)
 
 ## Equation of State
 
@@ -60,10 +68,14 @@
 
 [Git-latexdiff](https://gitlab.com/niksterg/git-latexdiff)
 
-### Web
+### Other tools
 
 [Silex website builder](https://www.silex.me/)
 
+[Sphinx](http://www.sphinx-doc.org/en/master/)
 
+### Upcoming conferences
+
+[3G Science Case Consortium Meeting](https://workshops.aei.mpg.de/3Gsubcomm/)
 
 
