@@ -70,9 +70,17 @@
 
 ### Other tools
 
+[MyBinder](https://mybinder.org)
+
+[Nbviewer](http://nbviewer.jupyter.org/)
+
 [Silex website builder](https://www.silex.me/)
 
 [Sphinx](http://www.sphinx-doc.org/en/master/)
+
+[TexMaker](http://www.xm1math.net/texmaker/)
+
+[Sublime Text](https://www.sublimetext.com/)
 
 ### Upcoming conferences
 
