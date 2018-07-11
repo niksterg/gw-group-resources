@@ -32,11 +32,15 @@
 
 [Einstein Toolkit](https://einsteintoolkit.org/)
 
+[1-D STELLAR COLLAPSE](https://stellarcollapse.org/)
+
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
 ## Equation of State
 
-[NS equation of state collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
+[Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
+
+[Stellar Collapse EOS collection](https://stellarcollapse.org/equationofstate)
 
 ## Tools
 
