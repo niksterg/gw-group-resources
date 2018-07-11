@@ -3,7 +3,7 @@
 ## Gravitational Wave Detectors
 
 [LISA mission](https://lisamission.org/)
-[LISA mission]<a href="https://lisamission.org/" target="blank">google</a>
+<a href="https://lisamission.org/" target="blank">LISA mission</a>
 
 [GWIC-3G third-generation GW detectors](https://gwic.ligo.org/3Gsubcomm/)
 
