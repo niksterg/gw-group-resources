@@ -12,6 +12,8 @@
 
 [LSC Open Data Workshop #1](https://losc.ligo.org/s/workshop1/course.html)  [Exercises](https://github.com/gw-odw/odw-2018)
 
+[LISA Data Challenge 1](https://lisa-ldc.lal.in2p3.fr/home)
+
 [Alicia Sintes' talk](https://www.ru.ac.za/media/rhodesuniversity/content/mathematics/documents/chrisengelbrecht/sintes-olives/SintesRhodes3_v1.pdf)
 
 [Peter Shawhan's talk](http://www.physics.umd.edu/rgroups/grt/buonanno/Phys879-2014/GWDA_May6.pdf)
