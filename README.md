@@ -44,9 +44,11 @@
 
 [Gravidy](https://gravidy.xyz/)
 
-## Equation of State
+## Equations of State
 
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
+
+[Matthias Hempel's collection](https://astro.physik.unibas.ch/people/matthias-hempel/equations-of-state.html)
 
 [Stellar Collapse EOS collection](https://stellarcollapse.org/equationofstate)
 
@@ -85,5 +87,13 @@
 ### Upcoming conferences
 
 [3G Science Case Consortium Meeting](https://workshops.aei.mpg.de/3Gsubcomm/)
+
+[3rd HEL.A.S. SUMMER SCHOOL AND DAAD SCHOOL: NEUTRON STARS AND GRAVITATIONAL WAVES(http://www.astro.auth.gr/summer2018/)
+
+[Fundamental Physics with LISA](http://www.ggi.infn.it/showevent.pl?id=305)
+
+[NEB-18 Recent Developments in Gravity](https://neb2018.wordpress.com/)
+
+
 
 
