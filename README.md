@@ -14,6 +14,8 @@
 
 [Alicia Sintes' talk](https://www.ru.ac.za/media/rhodesuniversity/content/mathematics/documents/chrisengelbrecht/sintes-olives/SintesRhodes3_v1.pdf)
 
+[Peter Shawhan's talk](http://www.physics.umd.edu/rgroups/grt/buonanno/Phys879-2014/GWDA_May6.pdf)
+
 [Elena Cuoco's page](https://www.elenacuoco.com/2016/08/23/sampling-theorem/)
 
 [Orphanidis' free Signal Processing book](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
