@@ -32,7 +32,7 @@
 
 [Einstein Toolkit](https://einsteintoolkit.org/)
 
-[1-D STELLAR COLLAPSE](https://stellarcollapse.org/)
+[Stellarcollapse.org](https://stellarcollapse.org/)
 
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
