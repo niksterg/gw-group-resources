@@ -60,6 +60,8 @@
 
 [Scipy lectures](http://www.scipy-lectures.org/index.html)
 
+[Dan Hammer's ODE examples](https://www.danham.me/r/2015/10/29/differential-eq.html)
+
 
 ### Version control
 [Bitbucket](https://bitbucket.org/)
