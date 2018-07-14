@@ -28,7 +28,7 @@
 
 [Orphanidis' free Signal Processing book](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 
-## Genera Relativity
+## General Relativity
 
 [Eric Gourgoulhon's lectures on black holes](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/)
 
