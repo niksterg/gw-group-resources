@@ -28,6 +28,8 @@
 
 [Orphanidis' free Signal Processing book](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 
+[GW matching demonstration app](https://mybinder.org/v2/gh/gwastro/gwapps/master?urlpath=/apps/gw150914.ipynb)
+
 ## General Relativity
 
 [Eric Gourgoulhon's lectures on black holes](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/)
