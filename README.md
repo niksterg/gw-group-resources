@@ -30,6 +30,12 @@
 
 [GW matching demonstration app](https://mybinder.org/v2/gh/gwastro/gwapps/master?urlpath=/apps/gw150914.ipynb)
 
+[Andrew Lundgren's talk on Data Quality for GW Detectors](https://www.youtube.com/watch?time_continue=1147&v=ambO2BENDoQ)
+
+[Alexander Nitz's talk on the Search for GWs](https://www.youtube.com/watch?time_continue=443&v=UtzUjpWZYZE)
+
+[Salvatore Vitale's talk on Methods for GW Sources](https://www.youtube.com/watch?time_continue=10&v=SGwOpwDC0pA)
+
 ## General Relativity
 
 [Eric Gourgoulhon's lectures on black holes](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/)
