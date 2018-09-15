@@ -60,6 +60,8 @@
 
 [GWpy](https://gwpy.github.io/)
 
+[PyCBC](https://pycbc.org/)
+
 ## Equations of State
 
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
