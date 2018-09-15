@@ -60,7 +60,7 @@
 
 [GWpy](https://gwpy.github.io/)
 
-[PyCBC](https://pycbc.org/)
+[PyCBC](https://pycbc.org/) with [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc)
 
 ## Equations of State
 
