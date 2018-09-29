@@ -14,7 +14,7 @@
 
 ## Gravitational Wave Data Analysis
 
-[LIGO Data Science Center](https://losc.ligo.org/about/)
+[Gravitational Wave Open Science Center](https://www.gw-openscience.org/about/)
 
 [LSC Open Data Workshop #1](https://losc.ligo.org/s/workshop1/course.html)  [Exercises](https://github.com/gw-odw/odw-2018)
 
