@@ -52,6 +52,8 @@
 
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
+[NRPy+/Senr](https://math.wvu.edu/~zetienne/SENR/)
+
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
 [Gravidy](https://gravidy.xyz/)
