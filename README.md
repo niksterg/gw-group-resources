@@ -76,7 +76,7 @@
 
 ### Python
 
-[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html)
+[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 [Scipy lectures](http://www.scipy-lectures.org/index.html)
 
