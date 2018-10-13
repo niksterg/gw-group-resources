@@ -76,7 +76,7 @@
 
 ### Python
 
-[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Features](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 [Scipy lectures](http://www.scipy-lectures.org/index.html)
 
@@ -108,7 +108,7 @@
 
 [Sublime Text](https://www.sublimetext.com/)
 
-### Upcoming conferences
+### Conferences
 
 [3G Science Case Consortium Meeting](https://workshops.aei.mpg.de/3Gsubcomm/)
 
