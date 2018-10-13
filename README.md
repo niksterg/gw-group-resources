@@ -100,6 +100,8 @@
 
 [Silex website builder](https://www.silex.me/)
 
+[Pelican static websites](https://blog.getpelican.com)
+
 [Sphinx](http://www.sphinx-doc.org/en/master/)
 
 [TexMaker](http://www.xm1math.net/texmaker/)
