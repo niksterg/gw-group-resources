@@ -16,6 +16,8 @@
 
 [Gravitational Wave Open Science Center](https://www.gw-openscience.org/about/)
 
+[1-OGC: Open GW catalog of binary mergers from analysis of public Advanced LIGO data](https://github.com/gwastro/1-ogc)
+
 [LSC Open Data Workshop #1](https://losc.ligo.org/s/workshop1/course.html)  [Exercises](https://github.com/gw-odw/odw-2018)
 
 [LISA Data Challenge 1](https://lisa-ldc.lal.in2p3.fr/home)
