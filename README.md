@@ -18,6 +18,8 @@
 
 [1-OGC: Open GW catalog of binary mergers from analysis of public Advanced LIGO data](https://github.com/gwastro/1-ogc)
 
+[Investigating the noise residuals around the gravitational wave event GW150914](https://github.com/gwastro/gw150914_investigation?fbclid=IwAR3sru1vT57o17EdIqSbESgHNw93iviH3_CJRURzSS85vQcPOTgzv6hp_3I)
+
 [LSC Open Data Workshop #1](https://losc.ligo.org/s/workshop1/course.html)  [Exercises](https://github.com/gw-odw/odw-2018)
 
 [LISA Data Challenge 1](https://lisa-ldc.lal.in2p3.fr/home)
