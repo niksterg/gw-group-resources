@@ -88,7 +88,7 @@
 
 ### Data analysis
 
-[Machine Learning with Python: Easy and robust method to fit nonlinear data] (https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
+[Machine Learning with Python: Easy and robust method to fit nonlinear data](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
 
 [A collection of python MCMC implementations](https://gabriel-p.github.io/pythonMCMC/?fbclid=IwAR0jywI3SYah0NZGJc4NSfXytB9JZKdu9zkKFsC1My-75ak_riRKbR898Rg)
 
