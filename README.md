@@ -86,6 +86,20 @@
 
 [Dan Hammer's ODE examples](https://www.danham.me/r/2015/10/29/differential-eq.html)
 
+### Data analysis
+
+[Machine Learning with Python: Easy and robust method to fit nonlinear data] (https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
+
+[A collection of python MCMC implementations](https://gabriel-p.github.io/pythonMCMC/?fbclid=IwAR0jywI3SYah0NZGJc4NSfXytB9JZKdu9zkKFsC1My-75ak_riRKbR898Rg)
+
+[Slides of the School of Statistics for Astrophysics 2017: Bayesian Methodology](https://github.com/jarbel/Stat4Astro-Autrans)
+
+[Astrostatistics lectures at SAMSI 2006](http://astrostatistics.psu.edu/samsi06/)
+
+[E. Toredo: The promise of Bayesian inference for astrophysics](http://www.oa.uj.edu.pl/~chris/stat/bayes.pdf)
+
+[Links on Bayesian method in astronomy/astrophysics](https://stats.stackexchange.com/questions/237178/learn-bayesian-inference-applied-to-astronomy-astrophysics)
+
 
 ### Version control
 [Bitbucket](https://bitbucket.org/)
