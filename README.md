@@ -158,6 +158,7 @@
 
 [The End of Theoretical Physics As We Know It](https://www.quantamagazine.org/the-end-of-theoretical-physics-as-we-know-it-20180827/?fbclid=IwAR0S1Z3vXEpXOqTPhrNkQIbfw-3mt2FIFjG6vtWyB0_4XikMPVP96u2ffU8)
 
+[A Fight for the Soul of Science](https://www.quantamagazine.org/physicists-and-philosophers-debate-the-boundaries-of-science-20151216/?utm_content=buffer4a438&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 
 
