@@ -54,7 +54,7 @@
 
 [CORE Computational Relativity waveforms database](http://www.computational-relativity.org/index.html)
 
-[Einstein Toolkit](https://einsteintoolkit.org/)
+[Einstein Toolkit](https://einsteintoolkit.org/) + [Steve Brandt's ET Jupyter tutorial](https://github.com/stevenrbrandt/CactusTutorial) + [Theodoros Soultanis' ET Jupyter tutorial](https://bitbucket.org/thsoulta/et_thessaloniki/src/master/)
 
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
