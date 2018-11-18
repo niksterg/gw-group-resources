@@ -148,5 +148,9 @@
 
 [Are Black Holes Actually Dark Energy Stars?](http://nautil.us/blog/are-black-holes-actually-dark-energy-stars)
 
+[Is Dark Matter Real?](https://www.scientificamerican.com/article/is-dark-matter-real/)
+
+[Squishy or Solid? A Neutron Star’s Insides Open to Debate](https://www.quantamagazine.org/squishy-or-solid-a-neutron-stars-insides-open-to-debate-20171030/)
+
 
 
