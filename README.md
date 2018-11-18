@@ -152,5 +152,8 @@
 
 [Squishy or Solid? A Neutron Star’s Insides Open to Debate](https://www.quantamagazine.org/squishy-or-solid-a-neutron-stars-insides-open-to-debate-20171030/)
 
+[https://www.quantamagazine.org/big-bounce-models-reignite-big-bang-debate-20180131/](https://www.quantamagazine.org/big-bounce-models-reignite-big-bang-debate-20180131/)
+
+
 
 
