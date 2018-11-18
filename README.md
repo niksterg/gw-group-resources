@@ -154,6 +154,9 @@
 
 [How the Universe Got Its Bounce Back](https://www.quantamagazine.org/big-bounce-models-reignite-big-bang-debate-20180131/)
 
+[The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing?fbclid=IwAR2gtu4E36Tm9pp7s0EYrtMwkEQ07Zw4zM8QSxhuLhSHY735I1Dmy5hDJC8)
+
+
 
 
 
