@@ -156,6 +156,8 @@
 
 [The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing?fbclid=IwAR2gtu4E36Tm9pp7s0EYrtMwkEQ07Zw4zM8QSxhuLhSHY735I1Dmy5hDJC8)
 
+[The End of Theoretical Physics As We Know It](https://www.quantamagazine.org/the-end-of-theoretical-physics-as-we-know-it-20180827/?fbclid=IwAR0S1Z3vXEpXOqTPhrNkQIbfw-3mt2FIFjG6vtWyB0_4XikMPVP96u2ffU8)
+
 
 
 
