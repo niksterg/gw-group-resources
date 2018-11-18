@@ -58,7 +58,7 @@
 
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
-[NRPy+/Senr](https://math.wvu.edu/~zetienne/SENR/)
+[NRPy+/Senr](https://math.wvu.edu/~zetienne/SENR/) + [Jupyter tutorial](https://mybinder.org/v2/gh/zachetienne/nrpytutorial/master?filepath=NRPyPlus_Tutorial.ipynb)
 
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
