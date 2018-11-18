@@ -6,6 +6,8 @@
 
 [GWIC-3G third-generation GW detectors](https://gwic.ligo.org/3Gsubcomm/)
 
+[Future gravitational-wave detectors aim to probe early universe](https://physicstoday.scitation.org/doi/10.1063/PT.3.4041)
+
 ## Gravitational Wave Theory
 
 [Caltech's GW course](http://astro-gr.org/online-course-gravitational-waves/)
@@ -136,6 +138,15 @@
 
 [NEB-18 Recent Developments in Gravity](https://neb2018.wordpress.com/)
 
+### Food for thought
+
+[How Holography Could Help Solve Quantum Gravity](https://www.quantamagazine.org/albert-einstein-holograms-and-quantum-gravity-20181114/)
+
+[Black Hole Firewalls Could Be Too Tepid to Burn](https://www.quantamagazine.org/black-hole-firewalls-could-be-too-tepid-to-burn-20180822/?fbclid=IwAR3wZVVkLxt2uAoa68T2sui0F7X0b8_rzVuX0vFQnbLbs3hU4R4r8BnyPV0)
+
+[Dark Energy May Be Incompatible With String Theory](https://www.quantamagazine.org/dark-energy-may-be-incompatible-with-string-theory-20180809/)
+
+[Are Black Holes Actually Dark Energy Stars?](http://nautil.us/blog/are-black-holes-actually-dark-energy-stars)
 
 
 
