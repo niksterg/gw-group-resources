@@ -78,6 +78,10 @@
 
 [Stellar Collapse EOS collection](https://stellarcollapse.org/equationofstate)
 
+[Arizona's EOS collection](http://xtreme.as.arizona.edu/NeutronStars/index.php/dense-matter-eos/)
+
+[Frank Timmes' code collection](http://cococubed.asu.edu/code_pages/codes.shtml)
+
 ## Tools
 
 ### Python
