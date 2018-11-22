@@ -164,6 +164,10 @@
 
 [A Fight for the Soul of Science](https://www.quantamagazine.org/physicists-and-philosophers-debate-the-boundaries-of-science-20151216/?utm_content=buffer4a438&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
+[The present phase of stagnation in the foundations of physics is not normal](http://backreaction.blogspot.com/2018/11/the-present-phase-of-stagnation-in.html)
+
+[What Quantum Gravity Needs Is More Experiments](http://nautil.us/issue/45/power/what-quantum-gravity-needs-is-more-experiments)
+
 
 
 
