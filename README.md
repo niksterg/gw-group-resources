@@ -168,6 +168,6 @@
 
 [What Quantum Gravity Needs Is More Experiments](http://nautil.us/issue/45/power/what-quantum-gravity-needs-is-more-experiments)
 
-
+[The Peculiar Math That Could Underlie the Laws of Nature](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/?fbclid=IwAR3HPeUyCxsAfVJi5xeVi6YlJx-36M0JsfuWSnzVETgs_ZMpMbs-a3VB8eM)
 
 
