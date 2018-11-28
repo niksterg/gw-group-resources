@@ -170,6 +170,8 @@
 
 [The Peculiar Math That Could Underlie the Laws of Nature](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/?fbclid=IwAR3HPeUyCxsAfVJi5xeVi6YlJx-36M0JsfuWSnzVETgs_ZMpMbs-a3VB8eM)
 
+Experiment Reaffirms Quantum Weirdness https://www.quantamagazine.org/physicists-are-closing-the-bell-test-loophole-20170207/?fbclid=IwAR1yZLP3OTOCT1fUfWr7QxrEK0kCN31--ykelkNzh-8b5lt8TnZ7G7-r_dM
+
 [Closed Loophole Confirms the Unreality of the Quantum World](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/?fbclid=IwAR3CqTiFZ1TxPPx-QjluD_ZSHU3k2wSoONPVxMOWocEvwSGYSbi_opo5hDw)
 
 [Theoretical physics has not gone to the dogs](https://quantumfrontiers.com/2018/11/25/theoretical-physics-has-not-gone-to-the-dogs/)
