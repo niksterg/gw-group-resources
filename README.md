@@ -178,4 +178,4 @@
 
 [Physicists finally calculated where the proton’s mass comes from](https://www.sciencenews.org/article/proton-mass-quarks-calculation?fbclid=IwAR1hLe6XuAYRfW4rzmYQitSSYsqQHYbNt30pwElPSCazo1Q4-wDaCL54fro)
 
-
+[The Quantum Thermodynamics Revolution](https://www.quantamagazine.org/the-quantum-thermodynamics-revolution-20170502/?utm_content=buffer8b0fc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&fbclid=IwAR29_UFzeztNXmqp6WStF3Sr4J7JRP5LZhDERxVyhAJgeaBlLAUkJHNVB9Q)
