@@ -48,6 +48,8 @@
 
 ## Numerical Relativity
 
+[Uli Sperhake's lecture](https://indico.cern.ch/event/505595/contributions/1183661/attachments/1332828/2003830/sperhake.pdf)
+
 ## Codes
 
 [RNS Rotating Neutron Stars](http://www.gravity.phys.uwm.edu/rns/)
@@ -69,6 +71,10 @@
 [GWpy](https://gwpy.github.io/)
 
 [PyCBC](https://pycbc.org/) with [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc)
+
+[SageMath](http://www.sagemath.org) + [book](http://sagebook.gforge.inria.fr/english.html) + [Presentation](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/sagemath.pdf)
+
+[SageManifolds](https://sagemanifolds.obspm.fr) + [tutorial](https://arxiv.org/pdf/1804.07346.pdf)
 
 ## Equations of State
 
