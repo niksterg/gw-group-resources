@@ -42,6 +42,8 @@
 
 [Salvatore Vitale's talk on Methods for GW Sources](https://www.youtube.com/watch?time_continue=10&v=SGwOpwDC0pA)
 
+[Maria Alessandra Papa's talk on GW Data Analysis](https://indico.cern.ch/event/505595/contributions/2141438/attachments/1342964/2023250/CoimbraSept2016_Alessandra_Papa.pdf)
+
 ## General Relativity
 
 [Eric Gourgoulhon's lectures on black holes](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/)
