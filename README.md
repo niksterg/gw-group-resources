@@ -16,6 +16,8 @@
 
 ## Gravitational Wave Data Analysis
 
+[LIGO-Virgo Compact Binary Catalogue](http://catalog.cardiffgravity.org/?fbclid=IwAR0k7IdMAXYLXpUe-VxhSaRo-LPvBhDnfVgki9cLFht_Z7qxIZLdtwJWf5M)
+
 [Gravitational Wave Open Science Center](https://www.gw-openscience.org/about/)
 
 [1-OGC: Open GW catalog of binary mergers from analysis of public Advanced LIGO data](https://github.com/gwastro/1-ogc)
