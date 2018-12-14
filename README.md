@@ -46,7 +46,7 @@
 
 [Maria Alessandra Papa's talk on GW Data Analysis](https://indico.cern.ch/event/505595/contributions/2141438/attachments/1342964/2023250/CoimbraSept2016_Alessandra_Papa.pdf)
 
-[New Studies Rescue Gravitational-Wave Signal From the Noise\(https://www.quantamagazine.org/studies-rescue-ligos-gravitational-wave-signal-from-the-noise-20181213/?fbclid=IwAR2viqn4W4Qr5w_S_KrNIFAlqOk-TKNabsyr0U7d7p505lsIUn9B_NODdHU)
+[New Studies Rescue Gravitational-Wave Signal From the Noise](https://www.quantamagazine.org/studies-rescue-ligos-gravitational-wave-signal-from-the-noise-20181213/?fbclid=IwAR2viqn4W4Qr5w_S_KrNIFAlqOk-TKNabsyr0U7d7p505lsIUn9B_NODdHU)
 
 ## General Relativity
 
