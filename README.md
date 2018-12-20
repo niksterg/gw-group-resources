@@ -98,12 +98,17 @@
 
 [Elena Kantor's lecture on Bulk and shear visosities in nuclear matter](https://indico.cern.ch/event/505595/contributions/1183670/attachments/1342898/2023115/kantor.pdf)
 
- [James Lattimer's talk Neutron Star Observations and Their Implications for the Nuclear Equation of State](http://www.phy.ohiou.edu/~SoNS/speakers/Symposium/Lattimer,JM_ohio16.pdf)
+ [James Lattimer's talk on Neutron Star Observations and Their Implications for the Nuclear Equation of State](http://www.phy.ohiou.edu/~SoNS/speakers/Symposium/Lattimer,JM_ohio16.pdf)
+ 
+[Matthias Hempel's talk on Equation of State Effects in Core-Collapse Supernovae](http://personal.ph.surrey.ac.uk/~m01088/IAS/talks/Hempel_Surrey2013.pdf)
 
 ## Oscillations
 
 [Kostas Glampedakis' lecture on Neutron star oscillations](https://indico.cern.ch/event/505595/contributions/1183672/attachments/1334149/2006122/Coimbra_2016_Kostas_Glampedakis.pdf)
 
+## Computational Methods
+
+[Computational Physics course at Ohio State](https://www.asc.ohio-state.edu/physics/ntg/6810/)
 
 ## Tools
 
