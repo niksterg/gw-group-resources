@@ -211,3 +211,5 @@
 [At Multiverse Impasse, a New Theory of Scale](https://www.quantamagazine.org/to-avoid-the-multiverse-physicists-propose-a-symmetry-of-scales-20140818/?fbclid=IwAR1Nc4ABG6GPWkZtMiXFcw7TETapu00tMND_NLBuNFJOzBn1nNiy-EeHS30)
 
 [Why Black Hole Interiors Grow (Almost) Forever](https://www.quantamagazine.org/why-black-hole-interiors-grow-forever-20181206/)
+
+[The Year in Physics 2018](https://www.quantamagazine.org/quantas-year-in-physics-2018-20181221/?fbclid=IwAR35qiuncJKbQQHMZbM44-DbZVHFWXlMgkBKsRLTjmi_MqXudOgqZyCzGHk)
