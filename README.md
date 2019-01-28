@@ -76,7 +76,7 @@
 
 [GWpy](https://gwpy.github.io/)
 
-[PyCBC](https://pycbc.org/) with [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc)
+[PyCBC](https://pycbc.org/) + [Examples](http://pycbc.org/pycbc/latest/html/#library-examples-and-interactive-tutorials) + [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc) + [Colab example](https://colab.research.google.com/github/gwastro/PyCBC-Tutorials/blob/master/tutorial/3_WaveformMatchedFilter.ipynb)
 
 [SageMath](http://www.sagemath.org) + [book](http://sagebook.gforge.inria.fr/english.html) + [Presentation](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/sagemath.pdf)
 
