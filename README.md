@@ -14,6 +14,8 @@
 
 [Amaro-Seoane and Schutz's GW Notes](http://astro-gr.org/gw-notes/)
 
+[Favata's Gravitational Wave Resources](http://hosting.astro.cornell.edu/~favata/gwresources.html)
+
 ## Gravitational Wave Data Analysis
 
 [LIGO-Virgo Compact Binary Catalogue](http://catalog.cardiffgravity.org/?fbclid=IwAR0k7IdMAXYLXpUe-VxhSaRo-LPvBhDnfVgki9cLFht_Z7qxIZLdtwJWf5M)
