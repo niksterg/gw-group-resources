@@ -58,6 +58,8 @@
 
 [Uli Sperhake's lecture](https://indico.cern.ch/event/505595/contributions/1183661/attachments/1332828/2003830/sperhake.pdf)
 
+[Robert McNees' Conventions, Definitions, Identities, and Formulas](http://jacobi.luc.edu/Useful.html)
+
 ## Codes
 
 [RNS Rotating Neutron Stars](http://www.gravity.phys.uwm.edu/rns/)
@@ -136,6 +138,9 @@
 
 [Links on Bayesian method in astronomy/astrophysics](https://stats.stackexchange.com/questions/237178/learn-bayesian-inference-applied-to-astronomy-astrophysics)
 
+### Mathematics
+
+[NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov)
 
 ### Version control
 [Bitbucket](https://bitbucket.org/)
