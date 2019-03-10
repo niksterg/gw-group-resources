@@ -118,7 +118,7 @@
 
 ### Python
 
-[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Features](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) + [Jupyter themes](https://github.com/dunovank/jupyter-themes)
+[Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Features](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) + [Jupyter themes](https://github.com/dunovank/jupyter-themes) + [Jupyter code fonts](https://github.com/merqurio/jupyter_themes)
 
 [Scipy lectures](http://www.scipy-lectures.org/index.html)
 
