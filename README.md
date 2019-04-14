@@ -88,6 +88,8 @@
 
 [Binary Black Hole Explorer](https://vijayvarma392.github.io/binaryBHexp/)
 
+[Black Hole Rendering with SageMath](https://nbviewer.jupyter.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_black_hole_rendering.ipynb?fbclid=IwAR2cLgCOsnOzBe78GXs02-Qz18HDjUR4PPPV2jvEOPinH-sbtDfNgnGuYxI)
+
 ## Equations of State
 
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
