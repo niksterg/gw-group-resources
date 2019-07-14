@@ -62,6 +62,10 @@
 
 [Robert McNees' Conventions, Definitions, Identities, and Formulas](http://jacobi.luc.edu/Useful.html)
 
+[SACRA BNS merger GW catalogue](http://www2.yukawa.kyoto-u.ac.jp/~nr_kyoto/SACRA_PUB/catalog_list.html)
+
+[CoRe GW catalogue and other tools](http://www.computational-relativity.org/resources/)
+
 ## Codes
 
 [RNS Rotating Neutron Stars](http://www.gravity.phys.uwm.edu/rns/)
