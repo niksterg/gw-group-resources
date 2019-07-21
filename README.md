@@ -232,3 +232,5 @@
 [The Year in Physics 2018](https://www.quantamagazine.org/quantas-year-in-physics-2018-20181221/?fbclid=IwAR35qiuncJKbQQHMZbM44-DbZVHFWXlMgkBKsRLTjmi_MqXudOgqZyCzGHk)
 
 [Yes, Virtual Particles Can Have Real, Observable Effects](https://medium.com/starts-with-a-bang/yes-virtual-particles-can-have-real-observable-effects-beadd7a114b3)
+
+[Colliding Neutron Stars Could Settle the Biggest Debate in Cosmology](https://www.quantamagazine.org/colliding-neutron-stars-could-settle-cosmologys-biggest-controversy-20171025/?utm_content=buffer9cf9f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&fbclid=IwAR2n7iK5C5QmMfO7icbeqkSnawFeo8tJYJFR8rmL6BKouis-LWOioLIgVKA)
