@@ -230,3 +230,5 @@
 [Why Black Hole Interiors Grow (Almost) Forever](https://www.quantamagazine.org/why-black-hole-interiors-grow-forever-20181206/)
 
 [The Year in Physics 2018](https://www.quantamagazine.org/quantas-year-in-physics-2018-20181221/?fbclid=IwAR35qiuncJKbQQHMZbM44-DbZVHFWXlMgkBKsRLTjmi_MqXudOgqZyCzGHk)
+
+[Yes, Virtual Particles Can Have Real, Observable Effects](https://medium.com/starts-with-a-bang/yes-virtual-particles-can-have-real-observable-effects-beadd7a114b3)
