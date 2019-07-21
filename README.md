@@ -146,6 +146,8 @@
 
 [Links on Bayesian method in astronomy/astrophysics](https://stats.stackexchange.com/questions/237178/learn-bayesian-inference-applied-to-astronomy-astrophysics)
 
+[A Beginner's Guide to Neural Networks and Deep Learning](https://skymind.ai/wiki/neural-network)
+
 ### Mathematics
 
 [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov)
