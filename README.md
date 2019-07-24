@@ -96,6 +96,8 @@
 
 [Black Hole Rendering with SageMath](https://nbviewer.jupyter.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_black_hole_rendering.ipynb?fbclid=IwAR2cLgCOsnOzBe78GXs02-Qz18HDjUR4PPPV2jvEOPinH-sbtDfNgnGuYxI)
 
+[COFFEE Python Hyperbolic PDEs code](https://gitlab.com/thebarista/coffee) + [Paper1](https://www.sciencedirect.com/science/article/pii/S2352711019300950?via%3Dihub) + [Paper2](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.084020)
+
 ## Equations of State
 
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
