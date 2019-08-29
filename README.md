@@ -84,6 +84,8 @@
 
 [Black Hole Perturbation Toolkit](http://bhptoolkit.org/)
 
+[qnm Kerr QNM's with Python](https://arxiv.org/pdf/1908.10377.pdf)
+
 [GWpy](https://gwpy.github.io/)
 
 [PyCBC](https://pycbc.org/) + [Examples](http://pycbc.org/pycbc/latest/html/#library-examples-and-interactive-tutorials) + [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc) + [Colab example](https://colab.research.google.com/github/gwastro/PyCBC-Tutorials/blob/master/tutorial/3_WaveformMatchedFilter.ipynb)
