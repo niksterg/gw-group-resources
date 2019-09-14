@@ -114,7 +114,7 @@
 
 [Elena Kantor's lecture on Bulk and shear visosities in nuclear matter](https://indico.cern.ch/event/505595/contributions/1183670/attachments/1342898/2023115/kantor.pdf)
 
- [James Lattimer's talk on Neutron Star Observations and Their Implications for the Nuclear Equation of State](http://www.phy.ohiou.edu/~SoNS/speakers/Symposium/Lattimer,JM_ohio16.pdf)
+[James Lattimer's talk on Neutron Star Observations and Their Implications for the Nuclear Equation of State](http://www.phy.ohiou.edu/~SoNS/speakers/Symposium/Lattimer,JM_ohio16.pdf)
  
 [Matthias Hempel's talk on Equation of State Effects in Core-Collapse Supernovae](http://personal.ph.surrey.ac.uk/~m01088/IAS/talks/Hempel_Surrey2013.pdf)
 
@@ -152,7 +152,7 @@
 
 [A Beginner's Guide to Neural Networks and Deep Learning](https://skymind.ai/wiki/neural-network)
 
-[Bilby: A user-friendly Bayesian inference library for gravitational-wave (astronomy](https://git.ligo.org/lscsoft/bilby/) + [Paper](https://arxiv.org/abs/1811.02042)
+[Bilby: A user-friendly Bayesian inference library for gravitational-wave astronomy](https://git.ligo.org/lscsoft/bilby/) + [Paper](https://arxiv.org/abs/1811.02042)
 
 ### Mathematics
 
