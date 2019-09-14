@@ -132,6 +132,8 @@
 
 [Jupyter notebooks](http://www.davidketcheson.info/notebooks.html) + [Features](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) + [Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) + [Jupyter themes](https://github.com/dunovank/jupyter-themes) + [Jupyter code fonts](https://github.com/merqurio/jupyter_themes)
 
+[99 Ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54)
+
 [Scipy lectures](http://www.scipy-lectures.org/index.html)
 
 [Dan Hammer's ODE examples](https://www.danham.me/r/2015/10/29/differential-eq.html)
