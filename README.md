@@ -152,6 +152,8 @@
 
 [A Beginner's Guide to Neural Networks and Deep Learning](https://skymind.ai/wiki/neural-network)
 
+[Bilby: A user-friendly Bayesian inference library for gravitational-wave (astronomy]https://git.ligo.org/lscsoft/bilby/) + [Paper](https://arxiv.org/abs/1811.02042)
+
 ### Mathematics
 
 [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov)
