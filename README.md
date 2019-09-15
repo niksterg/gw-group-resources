@@ -138,6 +138,11 @@
 
 [Dan Hammer's ODE examples](https://www.danham.me/r/2015/10/29/differential-eq.html)
 
+[Pweave: Scientific reports using Python](http://mpastell.com/pweave/)
+
+[Alternative workflow to Jupyter notebooks](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
+
+
 ### Data analysis
 
 [Machine Learning with Python: Easy and robust method to fit nonlinear data](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
