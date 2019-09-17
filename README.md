@@ -90,6 +90,8 @@
 
 [PyCBC](https://pycbc.org/) + [Examples](http://pycbc.org/pycbc/latest/html/#library-examples-and-interactive-tutorials) + [Azure tutorials](https://notebooks.azure.com/nitz/libraries/pycbc) + [Colab example](https://colab.research.google.com/github/gwastro/PyCBC-Tutorials/blob/master/tutorial/3_WaveformMatchedFilter.ipynb)
 
+[Bilby: A user-friendly Bayesian inference library for gravitational-wave astronomy](https://git.ligo.org/lscsoft/bilby/) + [Paper](https://arxiv.org/abs/1811.02042)
+
 [SageMath](http://www.sagemath.org) + [book](http://sagebook.gforge.inria.fr/english.html) + [Presentation](https://luth.obspm.fr/~luthier/gourgoulhon/leshouches18/sagemath.pdf) + [Interactions](https://wiki.sagemath.org/interact)
 
 [SageManifolds](https://sagemanifolds.obspm.fr) + [tutorial](https://arxiv.org/pdf/1804.07346.pdf) + [Presentation](https://indico.cern.ch/event/505595/contributions/1183667/attachments/1332615/2003436/sagemanifolds_EricGourgoulhon.pdf)
@@ -159,7 +161,7 @@
 
 [A Beginner's Guide to Neural Networks and Deep Learning](https://skymind.ai/wiki/neural-network)
 
-[Bilby: A user-friendly Bayesian inference library for gravitational-wave astronomy](https://git.ligo.org/lscsoft/bilby/) + [Paper](https://arxiv.org/abs/1811.02042)
+[100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ### Mathematics
 
