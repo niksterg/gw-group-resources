@@ -251,3 +251,5 @@
 [Colliding Neutron Stars Could Settle the Biggest Debate in Cosmology](https://www.quantamagazine.org/colliding-neutron-stars-could-settle-cosmologys-biggest-controversy-20171025/?utm_content=buffer9cf9f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&fbclid=IwAR2n7iK5C5QmMfO7icbeqkSnawFeo8tJYJFR8rmL6BKouis-LWOioLIgVKA)
 
 [Physicists are a step closer to a theory of quantum gravity](https://www.zmescience.com/science/physics/physicists-are-a-step-closer-to-a-theory-of-quantum-gravity/)
+
+[This One Experiment Reveals More About Reality Than Any Quantum Interpretation Ever Will](https://www.forbes.com/sites/startswithabang/2019/09/18/this-one-experiment-reveals-more-about-reality-than-any-quantum-interpretation-ever-will/#7d82a71a5c72)
