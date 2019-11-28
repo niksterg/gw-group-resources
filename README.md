@@ -74,6 +74,8 @@
 
 [Einstein Toolkit](https://einsteintoolkit.org/) + [Steve Brandt's ET Jupyter tutorial](https://github.com/stevenrbrandt/CactusTutorial) + [Theodoros Soultanis' ET Jupyter tutorial](https://bitbucket.org/thsoulta/et_thessaloniki/src/master/)
 
+[Canuda EdGB for ET](https://bitbucket.org/canuda/)
+
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
 [NRPy+/Senr](https://math.wvu.edu/~zetienne/SENR/) + [Jupyter tutorial](https://mybinder.org/v2/gh/zachetienne/nrpytutorial/master?filepath=NRPyPlus_Tutorial.ipynb)
