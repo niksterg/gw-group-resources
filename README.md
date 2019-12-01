@@ -104,6 +104,8 @@
 
 [COFFEE Python Hyperbolic PDEs code](https://gitlab.com/thebarista/coffee) + [Paper1](https://www.sciencedirect.com/science/article/pii/S2352711019300950?via%3Dihub) + [Paper2](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.084020)
 
+[EinsteinPy](https://einsteinpy.org)
+
 ## Equations of State
 
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
