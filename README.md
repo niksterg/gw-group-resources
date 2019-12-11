@@ -257,3 +257,5 @@
 [Physicists are a step closer to a theory of quantum gravity](https://www.zmescience.com/science/physics/physicists-are-a-step-closer-to-a-theory-of-quantum-gravity/)
 
 [This One Experiment Reveals More About Reality Than Any Quantum Interpretation Ever Will](https://www.forbes.com/sites/startswithabang/2019/09/18/this-one-experiment-reveals-more-about-reality-than-any-quantum-interpretation-ever-will/#7d82a71a5c72)
+
+[Why the Laws of Physics Are Inevitable](https://www.quantamagazine.org/how-simple-rules-bootstrap-the-laws-of-physics-20191209/)
