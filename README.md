@@ -78,7 +78,7 @@
 
 [Stellarcollapse.org](https://stellarcollapse.org/)
 
-[NRPy+/Senr](https://math.wvu.edu/~zetienne/SENR/) + [Jupyter tutorial](https://mybinder.org/v2/gh/zachetienne/nrpytutorial/master?filepath=NRPyPlus_Tutorial.ipynb)
+[NRPy+/Senr](http://astro.phys.wvu.edu/bhathome/) + [Jupyter tutorial](https://mybinder.org/v2/gh/zachetienne/nrpytutorial/master?filepath=NRPyPlus_Tutorial.ipynb)
 
 [GREAT NS oscillation modes](https://www.uv.es/cerdupa/codes/GREAT/)
 
@@ -105,6 +105,8 @@
 [COFFEE Python Hyperbolic PDEs code](https://gitlab.com/thebarista/coffee) + [Paper1](https://www.sciencedirect.com/science/article/pii/S2352711019300950?via%3Dihub) + [Paper2](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.084020)
 
 [EinsteinPy](https://einsteinpy.org)
+
+[Cadabra](https://cadabra.science/) + [Example](https://cadabra.science/notebooks/einstein_equations.html) + [Paper](https://arxiv.org/abs/1912.08839)
 
 ## Equations of State
 
