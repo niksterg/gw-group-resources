@@ -108,7 +108,7 @@
 
 [Cadabra](https://cadabra.science/) + [Example](https://cadabra.science/notebooks/einstein_equations.html) + [Paper](https://arxiv.org/abs/1912.08839)
 
-[HybridTools] (https://github.com/eflynn67/HybridTools) hybridizatoin of BNS waveforms
+[HybridTools](https://github.com/eflynn67/HybridTools) hybridizatoin of BNS waveforms
 
 ## Equations of State
 
