@@ -2,7 +2,7 @@
 
 ## IGWN install instructions
 
-Instructions (https://github.com/niksterg/gw-group-resources/blob/master/igwn-install.md)
+[Instructions](https://github.com/niksterg/gw-group-resources/blob/master/igwn-install.md)
 
 ## Gravitational Wave Detectors
 
