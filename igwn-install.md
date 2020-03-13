@@ -35,8 +35,12 @@ Step-by-step instructions:
    **sudo mount -t cvmfs gwosc.osgstorage.org /cvmfs/gwosc.osgstorage.org**   
 4. To find the bulk data from observation runs, change to    
    **cd /cvmfs/gwosc.osgstorage.org/**
-5. In new terminal window you should now be able to navigate 
+5. In new terminal window you should now be able to navigate   
    **ls -lh /cvmfs/oasis.opensciencegrid.org**
+6. For example: 
+   **ls -lh /cvmfs/oasis.opensciencegrid.org/ligo/sw**  
+   should list the following software:  
+   **conda  lalsuite  lscsoft  pycbc**  
    
    
    
