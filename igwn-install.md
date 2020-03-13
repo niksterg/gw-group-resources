@@ -37,19 +37,20 @@ Step-by-step instructions:
    **cd /cvmfs/gwosc.osgstorage.org/**
 5. In new terminal window you should now be able to navigate   
    **ls -lh /cvmfs/oasis.opensciencegrid.org**
-6. For example: 
+6. For example  
    **ls -lh /cvmfs/oasis.opensciencegrid.org/ligo/sw**  
    should list the following software:  
    **conda  lalsuite  lscsoft  pycbc**  
 7. [Install Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) (both python2.7 and python3.7)
-8. Check that miniconda python is in the path with **echo $PATH**
+8. Check that miniconda python is in the path with   
+   **echo $PATH**
 9. To see which python installation is the default:  
    **which python**
 10. Check which packages are in your current conda environment:  
    **conda list**
 11. Add the conda-forge channel:  
    **conda config --add channels conda-forge**
-12. Download one of the environment YAML files, see Environments
+12. Download the [igwn-py27](https://computing.docs.ligo.org/conda/environments/igwn-py27/) and [igwn-py37](https://computing.docs.ligo.org/conda/environments/igwn-py37/) YAML files (OSX versions).
 
    
    
