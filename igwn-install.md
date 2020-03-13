@@ -4,19 +4,19 @@
 
 Step-by-step instructions:
 
-1. [Install Fuse for MacOS](https://osxfuse.github.io/)
+A. [Install Fuse for MacOS](https://osxfuse.github.io/)
 
-2. [Install CVMFS file system](https://ecsft.cern.ch/dist/cvmfs/cvmfs-2.3.5/cvmfs-2.3.5.pkg)
+B. [Install CVMFS file system](https://ecsft.cern.ch/dist/cvmfs/cvmfs-2.3.5/cvmfs-2.3.5.pkg)
 
-3. [Configure CVFMS](https://www.gw-openscience.org/cvmfs/)
+C. [Configure CVFMS](https://www.gw-openscience.org/cvmfs/)
 
-cd /etc/cvmfs/
+  1. cd /etc/cvmfs/
 
-create and edit default.local to have this one line:
+  create and edit default.local to have this one line:
 
-CVMFS_HTTP_PROXY=DIRECT
+  CVMFS_HTTP_PROXY=DIRECT
 
-cd /etc/cvmfs/default.d/
+  2. cd /etc/cvmfs/default.d/
 
 create and edit 60-osg.conf to have these lines:
 
