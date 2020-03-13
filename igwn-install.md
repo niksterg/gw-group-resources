@@ -4,11 +4,11 @@
 
 Step-by-step instructions:
 
-A. [Install Fuse for MacOS](https://osxfuse.github.io/)
+1. [Install Fuse for MacOS](https://osxfuse.github.io/)
 
-B. [Install CVMFS file system](https://ecsft.cern.ch/dist/cvmfs/cvmfs-2.3.5/cvmfs-2.3.5.pkg)
+2. [Install CVMFS file system](https://ecsft.cern.ch/dist/cvmfs/cvmfs-2.3.5/cvmfs-2.3.5.pkg)
 
-C. [Configure CVFMS](https://www.gw-openscience.org/cvmfs/)
+3. [Configure CVFMS](https://www.gw-openscience.org/cvmfs/)
 
   1. cd /etc/cvmfs/
 
