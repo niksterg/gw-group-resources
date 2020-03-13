@@ -33,6 +33,6 @@ Step-by-step instructions:
    **sudo mount -t cvmfs config-osg.opensciencegrid.org /cvmfs/config-osg.opensciencegrid.org**  
    **sudo mount -t cvmfs oasis.opensciencegrid.org /cvmfs/oasis.opensciencegrid.org**  
    **sudo mount -t cvmfs gwosc.osgstorage.org /cvmfs/gwosc.osgstorage.org**   
-   7. To find the bulk data from observation runs, change to    
+4. To find the bulk data from observation runs, change to    
    **cd /cvmfs/gwosc.osgstorage.org/**
 
