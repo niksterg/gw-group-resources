@@ -10,8 +10,7 @@ Step-by-step instructions:
   1. cd /etc/cvmfs/
   2. create and edit default.local to have this one line:  
   CVMFS_HTTP_PROXY=DIRECT
-
-  2. cd /etc/cvmfs/default.d/
+  3. cd /etc/cvmfs/default.d/
 
 create and edit 60-osg.conf to have these lines:
 
