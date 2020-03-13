@@ -7,11 +7,8 @@ Step-by-step instructions:
 1. [Install Fuse for MacOS](https://osxfuse.github.io/)
 2. [Install CVMFS file system](https://ecsft.cern.ch/dist/cvmfs/cvmfs-2.3.5/cvmfs-2.3.5.pkg)
 3. [Configure CVFMS](https://www.gw-openscience.org/cvmfs/)
-
   1. cd /etc/cvmfs/
-
-  create and edit default.local to have this one line:
-
+  2. create and edit default.local to have this one line:  
   CVMFS_HTTP_PROXY=DIRECT
 
   2. cd /etc/cvmfs/default.d/
