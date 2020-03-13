@@ -51,6 +51,17 @@ Step-by-step instructions:
 11. Add the conda-forge channel:  
    **conda config --add channels conda-forge**
 12. Download the [igwn-py27](https://computing.docs.ligo.org/conda/environments/igwn-py27/) and [igwn-py37](https://computing.docs.ligo.org/conda/environments/igwn-py37/) YAML files (OSX versions).
+13. Install the environments locally  
+   **conda env create --file igwn-py27.yaml**  
+   **conda env create --file igwn-py37.yaml**  
+14. List the installed invironments   
+   **conda env list**
+15. Activate an environment  
+   **conda activate igwn-py27**
+16. Deactivate an environment  
+   **conda deactivate**
+   
+
 
    
    
