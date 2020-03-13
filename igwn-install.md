@@ -41,7 +41,7 @@ Step-by-step instructions:
    **ls -lh /cvmfs/oasis.opensciencegrid.org/ligo/sw**  
    should list the following software:  
    **conda  lalsuite  lscsoft  pycbc**  
-   
+7. [Install Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
    
    
    
