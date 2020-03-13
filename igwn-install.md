@@ -25,18 +25,14 @@ Step-by-step instructions:
  CVMFS_FALLBACK_PROXY=http://cvmfsbproxy.cern.ch:3126;http://cvmfsbproxy.fnal.gov:3126  
  create and edit config-osg.opensciencegrid.org.conf to have single line:  
  CVMFS_SERVER_URL=http://cvmfs-s1bnl.opensciencegrid.org:8000/cvmfs/@fqrn@;http://cvmfs-s1fnal.opensciencegrid.org:8000/cvmfs/@fqrn@;http://cvmfs-s1goc.opensciencegrid.org:8000/cvmfs/@fqrn@*  
-   5. make this mount directory:  
-   **sudo mkdir -p /cvmfs/config-osg.opensciencegrid.org**
-   6. mount this directory to cvmfs:
-   **sudo mount -t cvmfs config-osg.opensciencegrid.org /cvmfs/config-osg.opensciencegrid.org**
-   7. make this mount directory:
-   **sudo mkdir -p /cvmfs/oasis.opensciencegrid.org**
-   8. mount this directory to cvmfs:
-   **sudo mount -t cvmfs oasis.opensciencegrid.org /cvmfs/oasis.opensciencegrid.org**
-   9. make this mount directory:
+   5. create these directories:  
+   **sudo mkdir -p /cvmfs/config-osg.opensciencegrid.org**  
+   **sudo mkdir -p /cvmfs/oasis.opensciencegrid.org**  
    **sudo mkdir /cvmfs/gwosc.osgstorage.org**
-   10. mount this directory to cvmfs:
-   **sudo mount -t cvmfs gwosc.osgstorage.org /cvmfs/gwosc.osgstorage.org**
-
-to find the bulk data from observation runs, change directory to be /cvmfs/gwosc.osgstorage
+   6. mount these directories to cvmfs:  
+   **sudo mount -t cvmfs config-osg.opensciencegrid.org /cvmfs/config-osg.opensciencegrid.org**  
+   **sudo mount -t cvmfs oasis.opensciencegrid.org /cvmfs/oasis.opensciencegrid.org**  
+   **sudo mount -t cvmfs gwosc.osgstorage.org /cvmfs/gwosc.osgstorage.org**   
+   7. To find the bulk data from observation runs, change to    
+   **cd /cvmfs/gwosc.osgstorage.org/**
 
