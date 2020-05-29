@@ -156,6 +156,8 @@
 
 [Alternative workflow to Jupyter notebooks](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
 
+[David Beazly's Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+
 
 ### Data analysis
 
