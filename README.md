@@ -116,6 +116,8 @@
 
 ## Equations of State
 
+[Compose](https://compose.obspm.fr/)
+
 [Sumiyoshi's EOS collection](http://user.numazu-ct.ac.jp/~sumi/eos/index.html)
 
 [Matthias Hempel's collection](https://astro.physik.unibas.ch/people/matthias-hempel/equations-of-state.html)
